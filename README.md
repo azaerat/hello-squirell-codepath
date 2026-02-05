@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src="demo.gif" title="Video Demo" width="300" alt="Video Demo" />
+<img src="Kapture 2026-02-04 at 21.30.31.gif" title="Video Demo" width="300" alt="Video Demo" />
 GIF created with **Kap**
 
 <!-- Recommended tools:
